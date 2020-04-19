@@ -9,13 +9,15 @@
 import SwiftUI
 
 struct ContentView: View {
+    var viewModel: CalendarViewModel
+    
     var body: some View {
-        Text("Hello, World!")
+        Button("Button"){}
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        ContentView(viewModel: CalendarViewModel())
     }
 }

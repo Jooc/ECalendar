@@ -1,0 +1,38 @@
+{
+    "msg": "成功",
+    "code": 0,
+    "data": [
+        {
+            "id": 1,
+            "title": "123",
+            "location": "",
+            "allDay": 0,
+            "startTime": "2020-04-15 21:19",
+            "endTime": "2020-04-15 22:19",
+            "timeZone": "Shanghai",
+            "repeatTime": "Never",
+            "invitees": "[None]",
+            "inviteesList": [
+                "None"
+            ],
+            "alerts": "[None]",
+            "alertsList": [
+                "None"
+            ],
+            "showAs": "Busy",
+            "calendar": "iOS Club",
+            "url": "",
+            "notes": "",
+            "u_code": -1,
+            "event_privilege": 1,
+            "user_privilege": 3,
+            "user_email": "b",
+            "hashMapList": [
+                {
+                    "u_mail": "a",
+                    "u_hash": "EDAC7CC8-2AA7-40DF-B52F-8C9F2250019A:36004BD7-2F7D-4688-A06F-596CD7295F3B"
+                }
+            ]
+        }
+    ]
+}
